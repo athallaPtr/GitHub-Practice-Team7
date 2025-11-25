@@ -2,8 +2,7 @@ PEMBAGIAN TUGAS (isi tugas kalian di bawah ini)
 
 
 Athalla
-- buat code calcu
-
+- make a calcu code
 
 Paksi
 
